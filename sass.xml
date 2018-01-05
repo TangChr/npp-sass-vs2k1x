@@ -40,7 +40,7 @@
             <WordsStyle name="LINE COMMENTS" fgColor="608B4E" bgColor="1E1E1E" fontName="" fontStyle="2" nesting="0" />
             <WordsStyle name="NUMBERS" fgColor="C8C8C8" bgColor="1E1E1E" fontName="" fontStyle="0" nesting="0" />
             <WordsStyle name="KEYWORDS1" fgColor="569CD6" bgColor="1E1E1E" fontName="" fontStyle="0" nesting="0" />
-            <WordsStyle name="KEYWORDS2" fgColor="808000" bgColor="1E1E1E" fontName="" fontStyle="0" nesting="0" />
+            <WordsStyle name="KEYWORDS2" fgColor="109D58" bgColor="1E1E1E" fontName="" fontStyle="0" nesting="0" />
             <WordsStyle name="KEYWORDS3" fgColor="F0DFAF" bgColor="1E1E1E" fontName="" fontStyle="0" nesting="0" />
             <WordsStyle name="KEYWORDS4" fgColor="569CD6" bgColor="1E1E1E" fontName="" fontStyle="0" nesting="0" />
             <WordsStyle name="KEYWORDS5" fgColor="F0DFAF" bgColor="1E1E1E" fontName="" fontStyle="0" nesting="0" />
